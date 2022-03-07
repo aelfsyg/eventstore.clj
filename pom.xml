@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>net.clojars.ae</groupId>
+  <groupId>com.aelfsyg</groupId>
   <artifactId>eventstore.clj</artifactId>
-  <version>0.2.0-SNAPSHOT</version>
-  <name>ae/eventstore.clj</name>
+  <version>1.0.0-SNAPSHOT</version>
+  <name>aelfsyg/eventstore.clj</name>
   <description>FIXME: my new library.</description>
-  <url>https://github.com/ae/eventstore.clj</url>
+  <url>https://github.com/aelfsyg/eventstore.clj</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
@@ -15,14 +15,16 @@
   </licenses>
   <developers>
     <developer>
-      <name>AlmostEducated</name>
+      <name>Ælfsyg</name>
     </developer>
   </developers>
   <scm>
-    <url>https://github.com/EducatedAlmost/eventstore.clj</url>
-    <connection>scm:git:git://github.com/EducatedAlmost/eventstore.clj.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/EducatedAlmost/eventstore.clj.git</developerConnection>
-    <tag>v0.1.0-SNAPSHOT</tag>
+    <url>https://github.com/aelfsyg/eventstore.clj</url>
+    <connection>scm:git:git://github.com/aelfsyg/eventstore.clj.git</connection>
+    <developerConnection>
+      scm:git:ssh://git@github.com/aelfsyg/eventstore.clj.git
+    </developerConnection>
+    <tag>v1.0.0-SNAPSHOT</tag>
   </scm>
   <dependencies>
     <dependency>
